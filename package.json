@@ -1,0 +1,25 @@
+{
+  "name": "lambda-sprint-3",
+  "version": "1.0.0",
+  "description": "# Sprint Challenge: JavaScript Fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PascalUlor/Sprint-Challenge--JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PascalUlor/Sprint-Challenge--JavaScript/issues"
+  },
+  "homepage": "https://github.com/PascalUlor/Sprint-Challenge--JavaScript#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2"
+  }
+}
