@@ -32,7 +32,7 @@ class Cube extends CuboidMaker {
 
 }
 
-cube = new Cube(3, 3, 3);
+cube = new Cube(3);
 
 console.log(cube.volume());
 console.log(cube.surfaceArea());
