@@ -24,3 +24,15 @@ console.log(cuboid.surfaceArea()); // 130
 // Find out the formulas for volume and surface area for cubes 
 // and create those methods using the dimension properties from CuboidMaker.  
 // Test your work by logging out your volume and surface area.
+
+class Cube extends CuboidMaker {
+    constructor(length) {
+        super(length, length, length)
+    }
+
+}
+
+cube = new Cube(3, 3, 3);
+
+console.log(cube.volume());
+console.log(cube.surfaceArea());
